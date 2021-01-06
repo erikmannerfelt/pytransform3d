@@ -370,6 +370,7 @@ Testing
    ~pytransform3d.camera.cam2sensor
    ~pytransform3d.camera.sensor2img
    ~pytransform3d.camera.world2image
+   ~pytransform3d.camera.plot_camera
 
 
 :mod:`pytransform3d.plot_utils`
